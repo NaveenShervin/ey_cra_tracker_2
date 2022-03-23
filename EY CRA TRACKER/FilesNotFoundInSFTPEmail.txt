@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{font-family: 'Open Sans', sans-serif;}
+p{color:#4d94ff;}
+</style>
+</head>
+<body>
+<p>
+<br><br>
+Dear Team,<br>Either Adjustment Flown DNL or Cargo Flown DNL or both are not available in SFTP even after the Job was Schduled.<br>
+</p><br>
+<br><br> 
+Thanks,<br>
+<div style="color:#BD8B13">Digital RPA BOT</div><br>
+**<i>To report an issue please send an email to </i><a href="mailto:askRPAsupport@Etihad.ae">askRPAsupport@Etihad.ae</a>
+</body>
+</html>

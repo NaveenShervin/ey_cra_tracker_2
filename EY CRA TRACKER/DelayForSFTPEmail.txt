@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{font-family: 'Open Sans', sans-serif;}
+p{color:#4d94ff;}
+</style>
+</head>
+<body>
+<p>
+<br><br>
+Dear Team,<br>Bot has scheduled the Job in Accelya CRA and the Bot is currently waiting for {0} and then Bot will check for the files in SFTP.</p><br>
+<br><br> 
+Thanks,<br>
+<div style="color:#BD8B13">Digital RPA BOT</div><br>
+**<i>To report an issue please send an email to </i><a href="mailto:askRPAsupport@Etihad.ae">askRPAsupport@Etihad.ae</a>
+</body>
+</html>
